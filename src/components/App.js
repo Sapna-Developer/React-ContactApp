@@ -11,6 +11,9 @@ const contacts=[
   },
   {
     id:"2", name: "Ketzia", email: "gadsiya17101999@gmail.com",
+  },
+  {
+    id:"3", name: "Sumit Ji", email: "kkumarsumith@gmail.com",
   }
 ];
 
